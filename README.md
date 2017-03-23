@@ -7,7 +7,7 @@
 
 # Preview
 
-<img src="preview/menu_cyclic.gif"/><img src="preview/menu_slop.gif"/>
+<img src="preview/menu_cyclic.gif"/><img src="https://github.com/lichenyu10/SlidMenu/tree/master/preview/menu_slop.gif"/>
 
 
 # Usage
